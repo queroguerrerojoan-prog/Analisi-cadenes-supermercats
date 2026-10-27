@@ -1,0 +1,79 @@
+atribut;importancia;satisfaccio;quadrant;Establecimiento
+Pc1.Actitud;0,503944543621927;5,57858136300417;Fortalesa a mantenir;bonpreu
+Pc1.Atencion;0,46211285319688;5,0778859527121;Prioritat de millora;bonpreu
+Pc1.Atenncioninstantanea;0,471486442354968;5,26564673157163;Prioritat de millora;bonpreu
+Pc1.Servicioacliente;0,522183185136548;5,44923504867872;Fortalesa a mantenir;bonpreu
+Pd1.Asesoramiento;0,432667834245843;5,557719054242;Possible excés d'esforç;bonpreu
+Pd1.InfoCompleta;0,428167579195753;5,5201668984701;Possible excés d'esforç;bonpreu
+Pe1.Experiencia;0,405128532685462;5,45062586926287;Possible excés d'esforç;bonpreu
+Pe1.Consultasalacaja;0,413419336720865;5,72322670375522;Possible excés d'esforç;bonpreu
+Pe1.GamaAmplia;0,449072070645198;5,87760778859527;Fortalesa a mantenir;bonpreu
+Pe1.ResolConsulta;0,4210896983247;5,81223922114047;Possible excés d'esforç;bonpreu
+Pe1.Interes;0,420346984535814;5,75521557719054;Possible excés d'esforç;bonpreu
+Pe1.EsperaAtenc;0,430041954004676;5,31988873435327;Baixa prioritat;bonpreu
+Pe1.EsperaCaja;0,346412109140729;4,91794158553547;Baixa prioritat;bonpreu
+Pe1.ResolucRapida;0,428695855611438;5,33936022253129;Baixa prioritat;bonpreu
+Pe1.EmpleadCaja;0,381414640047493;4,6884561891516;Baixa prioritat;bonpreu
+Pf1.Competitivid;0,45975483082905;5,60083449235049;Fortalesa a mantenir;bonpreu
+Pf1.Variedad;0,460202556063355;5,36717663421419;Prioritat de millora;bonpreu
+Pg1.NumEmplead;0,407038557430708;5,13351877607789;Baixa prioritat;bonpreu
+Pg1.Decoracion;0,46729345394525;4,77329624478442;Prioritat de millora;bonpreu
+Pg1.Iluminacion;0,448518483372941;5,57440890125174;Fortalesa a mantenir;bonpreu
+Pg1.Climatizacion_establecimiento;0,464601717090135;5,557719054242;Fortalesa a mantenir;bonpreu
+Pg1.OrdenLimpieza;0,489827845744048;5,14464534075104;Prioritat de millora;bonpreu
+Pg1.Amplitud;0,455531421140759;5,22948539638387;Prioritat de millora;bonpreu
+Pg1.Senalizacion;0,479303995691664;5,0904033379694;Prioritat de millora;bonpreu
+Pg1.IdentCadena;0,368015445012414;6,02642559109875;Possible excés d'esforç;bonpreu
+Ph1.CalidadPrecio;0,564003616135884;6,19332406119611;Fortalesa a mantenir;bonpreu
+Pc1.Actitud;0,361013309831315;6,34683954619125;Baixa prioritat;casa_ametller
+Pc1.Atencion;0,397719423453884;5,85899513776337;Baixa prioritat;casa_ametller
+Pc1.Atenncioninstantanea;0,429660268657614;5,79740680713128;Baixa prioritat;casa_ametller
+Pc1.Servicioacliente;0,475959057134692;6,12641815235008;Prioritat de millora;casa_ametller
+Pd1.Asesoramiento;0,409500352899459;6,52025931928687;Possible excés d'esforç;casa_ametller
+Pd1.InfoCompleta;0,43575569778947;6,47163695299838;Baixa prioritat;casa_ametller
+Pe1.Experiencia;0,402134834379061;6,13128038897893;Baixa prioritat;casa_ametller
+Pe1.Consultasalacaja;0,409493964152236;6,44570502431118;Baixa prioritat;casa_ametller
+Pe1.GamaAmplia;0,476564376176812;6,43273905996759;Prioritat de millora;casa_ametller
+Pe1.ResolConsulta;0,458306977584009;6,25769854132901;Prioritat de millora;casa_ametller
+Pe1.Interes;0,509095999848976;6,32739059967585;Prioritat de millora;casa_ametller
+Pe1.EsperaAtenc;0,436101825669731;5,63209076175041;Baixa prioritat;casa_ametller
+Pe1.EsperaCaja;0,391691513656475;5,84764991896272;Baixa prioritat;casa_ametller
+Pe1.ResolucRapida;0,468864142386026;5,92220421393841;Prioritat de millora;casa_ametller
+Pe1.EmpleadCaja;0,510285762929597;6,01134521880065;Prioritat de millora;casa_ametller
+Pf1.Competitivid;0,505968580856569;6,83954619124797;Fortalesa a mantenir;casa_ametller
+Pf1.Variedad;0,449029687983488;7,28363047001621;Possible excés d'esforç;casa_ametller
+Pg1.NumEmplead;0,50743148181948;5,91734197730956;Prioritat de millora;casa_ametller
+Pg1.Decoracion;0,418894462987271;6,58184764991896;Possible excés d'esforç;casa_ametller
+Pg1.Iluminacion;0,428364952348193;7,09562398703404;Possible excés d'esforç;casa_ametller
+Pg1.Climatizacion_establecimiento;0,440492476506875;6,90923824959481;Possible excés d'esforç;casa_ametller
+Pg1.OrdenLimpieza;0,478273654065804;7,08589951377634;Fortalesa a mantenir;casa_ametller
+Pg1.Amplitud;0,425432149262946;7,72447325769854;Possible excés d'esforç;casa_ametller
+Pg1.Senalizacion;0,426528351428076;6,96434359805511;Possible excés d'esforç;casa_ametller
+Pg1.IdentCadena;0,448373557642805;7,41815235008104;Possible excés d'esforç;casa_ametller
+Ph1.CalidadPrecio;0,666979432368133;6,89789303079417;Fortalesa a mantenir;casa_ametller
+Pc1.Actitud;0,272320892542882;7,21164772727273;Possible excés d'esforç;consum
+Pc1.Atencion;0,273425934745436;6,77982954545455;Baixa prioritat;consum
+Pc1.Atenncioninstantanea;0,308272891882389;6,86363636363636;Baixa prioritat;consum
+Pc1.Servicioacliente;0,346471184649691;6,97869318181818;Possible excés d'esforç;consum
+Pd1.Asesoramiento;0,38550243509043;6,83806818181818;Prioritat de millora;consum
+Pd1.InfoCompleta;0,37019286790277;6,78551136363636;Prioritat de millora;consum
+Pe1.Experiencia;0,271710915117922;6,96306818181818;Baixa prioritat;consum
+Pe1.Consultasalacaja;0,348283268426277;7,18181818181818;Possible excés d'esforç;consum
+Pe1.GamaAmplia;0,388015561935648;7,15625;Fortalesa a mantenir;consum
+Pe1.ResolConsulta;0,389711401758339;7,04403409090909;Fortalesa a mantenir;consum
+Pe1.Interes;0,357825762553991;7,11505681818182;Possible excés d'esforç;consum
+Pe1.EsperaAtenc;0,361049598790658;6,69034090909091;Prioritat de millora;consum
+Pe1.EsperaCaja;0,312724542335431;6,29971590909091;Baixa prioritat;consum
+Pe1.ResolucRapida;0,340408104238339;6,75568181818182;Baixa prioritat;consum
+Pe1.EmpleadCaja;0,419717803815163;6,77840909090909;Prioritat de millora;consum
+Pf1.Competitivid;0,47687232860089;7,23721590909091;Fortalesa a mantenir;consum
+Pf1.Variedad;0,420990488267584;6,83522727272727;Prioritat de millora;consum
+Pg1.NumEmplead;0,348992506427732;6,796875;Baixa prioritat;consum
+Pg1.Decoracion;0,332082925106647;6,52840909090909;Baixa prioritat;consum
+Pg1.Iluminacion;0,35305612177316;7,06960227272727;Possible excés d'esforç;consum
+Pg1.Climatizacion_establecimiento;0,327537807732;7,171875;Possible excés d'esforç;consum
+Pg1.OrdenLimpieza;0,378773737119405;7,26988636363636;Fortalesa a mantenir;consum
+Pg1.Amplitud;0,360420802260892;7,27414772727273;Fortalesa a mantenir;consum
+Pg1.Senalizacion;0,275756016692808;6,703125;Baixa prioritat;consum
+Pg1.IdentCadena;0,28742568249515;7,43465909090909;Possible excés d'esforç;consum
+Ph1.CalidadPrecio;0,653249982255649;7,56676136363636;Fortalesa a mantenir;consum

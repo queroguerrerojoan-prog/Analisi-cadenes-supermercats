@@ -1,0 +1,55 @@
+=== Ajust ===
+Model complet:  26 variables, R² = 0.570, R² ajustat = 0.565, AIC = 6825.8
+Model AIC:      12 variables, R² = 0.568, R² ajustat = 0.566, AIC = 6806.1
+Variables eliminades: Pc1.Atencion, Pc1.Atenncioninstantanea, Pd1.InfoCompleta, Pe1.Experiencia, Pe1.Consultasalacaja, Pe1.ResolConsulta, Pe1.Interes, Pe1.EsperaCaja, Pe1.ResolucRapida, Pg1.Decoracion, Pg1.Climatizacion_establecimiento, Pg1.Amplitud, Pg1.Senalizacion, Pg1.IdentCadena
+Validació creuada (10 particions): R² = 0.555 (rang 0.402-0.670)
+Sense Ph1.CalidadPrecio: R² = 0.492
+
+=== Diagnòstic ===
+VIF màxim: 2.44 (Pc1.Servicioacliente)
+Breusch-Pagan: BP = 30.1, p = 2.72e-03 (heteroscedasticitat: s'usen errors robustos HC3)
+Durbin-Watson: DW = 1.908, p = 0.017 (possible autocorrelació)
+Durbin-Watson amb ordre aleatori: DW = 1.958, p = 0.173
+
+=== Coeficients (errors robustos HC3) ===
+Ph1.CalidadPrecio                  beta = +0.388  p = 0.0000  VIF = 1.70
+Pf1.Competitivid                   beta = +0.104  p = 0.0001  VIF = 2.13
+Pe1.GamaAmplia                     beta = +0.093  p = 0.0004  VIF = 1.76
+Pg1.OrdenLimpieza                  beta = +0.083  p = 0.0005  VIF = 2.16
+Pc1.Servicioacliente               beta = +0.065  p = 0.0260  VIF = 2.44
+Pe1.EsperaAtenc                    beta = +0.063  p = 0.0111  VIF = 1.72
+Pg1.Iluminacion                    beta = +0.048  p = 0.0684  VIF = 1.91
+Pe1.EmpleadCaja                    beta = +0.045  p = 0.0279  VIF = 2.07
+Pf1.Variedad                       beta = +0.043  p = 0.0840  VIF = 2.05
+Pc1.Actitud                        beta = +0.036  p = 0.1751  VIF = 2.11
+Pd1.Asesoramiento                  beta = +0.031  p = 0.1959  VIF = 1.73
+Pg1.NumEmplead                     beta = +0.030  p = 0.2429  VIF = 1.96
+
+=== Efecte cadena (controlant atributs) ===
+F = 1.51, p = 2.21e-01
+Casa Ametller  vs Bonpreu: beta = -0.050, p = 0.5571
+Consum         vs Bonpreu: beta = +0.080, p = 0.3601
+Consum         diferència bruta = +1.629
+Casa Ametller  diferència bruta = +0.929
+
+=== Importància relativa (LMG, % de l'R²) ===
+Ph1.CalidadPrecio                   25.2%
+Pf1.Competitivid                     9.4%
+Pg1.OrdenLimpieza                    8.3%
+Pc1.Servicioacliente                 7.3%
+Pe1.GamaAmplia                       7.2%
+Pf1.Variedad                         6.7%
+Pe1.EmpleadCaja                      6.7%
+Pg1.Iluminacion                      6.1%
+Pg1.NumEmplead                       6.1%
+Pe1.EsperaAtenc                      5.9%
+Pc1.Actitud                          5.6%
+Pd1.Asesoramiento                    5.4%
+
+Per bloc:
+  Valoració global   25.2%
+  Centres             20.5%
+  Experiència        19.8%
+  Productes           16.1%
+  Comprensió         12.9%
+  Informació          5.4%

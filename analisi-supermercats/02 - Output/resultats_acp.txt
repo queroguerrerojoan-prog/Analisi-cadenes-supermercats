@@ -1,0 +1,21 @@
+=== Adequació ===
+KMO global: 0.967
+Bartlett: χ² = 35364.4, gl = 325, p = 0.00e+00
+Variables amb KMO < 0,5: cap
+
+=== Nombre de components ===
+Kaiser: 3 · Anàlisi paral·lela: 3 · Escollits: 4
+Variància acumulada: 65.2%
+
+=== Dimensions ===
+  Atenció i servei al client
+  Ambient de la botiga
+  Rapidesa i esperes
+  Oferta i assessorament
+
+=== Model de satisfacció ===
+R² = 0.505
+  RC1    beta = +0.706, p = 0.0000
+  RC2    beta = +0.775, p = 0.0000
+  RC3    beta = +0.568, p = 0.0000
+  RC4    beta = +0.693, p = 0.0000

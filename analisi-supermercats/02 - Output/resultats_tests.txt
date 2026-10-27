@@ -1,0 +1,37 @@
+=== Satisfacció global per cadena ===
+ANOVA:          F = 144.02, p = 0.0000, η² = 0.124 (Mitjà)
+Fligner:        p = 0.0000 (variàncies diferents: prioritzar Welch)
+Welch:          F = 138.06, p = 0.0000
+Kruskal-Wallis: H = 265.35, p = 0.0000
+
+=== Atributs amb diferències significatives entre cadenes (BH) ===
+Pg1.Amplitud         η² = 0.267 (Gran)
+Pg1.OrdenLimpieza    η² = 0.220 (Gran)
+Pg1.Decoracion       η² = 0.165 (Gran)
+Pg1.Senalizacion     η² = 0.159 (Gran)
+Pf1.Variedad         η² = 0.149 (Gran)
+Pe1.EmpleadCaja      η² = 0.149 (Gran)
+Pg1.Climatizacion_establecimiento η² = 0.140 (Mitjà)
+Pg1.Iluminacion      η² = 0.139 (Mitjà)
+Pc1.Actitud          η² = 0.130 (Mitjà)
+Pf1.Competitivid     η² = 0.127 (Mitjà)
+Pc1.Atencion         η² = 0.126 (Mitjà)
+Pg1.NumEmplead       η² = 0.126 (Mitjà)
+Ph1.Satisfaccion     η² = 0.124 (Mitjà)
+Pe1.Experiencia      η² = 0.121 (Mitjà)
+Pc1.Atenncioninstantanea η² = 0.118 (Mitjà)
+Pg1.IdentCadena      η² = 0.116 (Mitjà)
+Pc1.Servicioacliente η² = 0.116 (Mitjà)
+Pe1.Consultasalacaja η² = 0.112 (Mitjà)
+Ph1.CalidadPrecio    η² = 0.102 (Mitjà)
+Pe1.ResolucRapida    η² = 0.099 (Mitjà)
+Pe1.ResolConsulta    η² = 0.090 (Mitjà)
+Pe1.GamaAmplia       η² = 0.089 (Mitjà)
+Pe1.Interes          η² = 0.089 (Mitjà)
+Pd1.InfoCompleta     η² = 0.087 (Mitjà)
+Pe1.EsperaAtenc      η² = 0.086 (Mitjà)
+Pd1.Asesoramiento    η² = 0.086 (Mitjà)
+Pe1.EsperaCaja       η² = 0.078 (Mitjà)
+
+=== Khi quadrat Pc1.Actitud ===
+χ² = 284.54, gl = 6, p = 0.0000, V de Cramér = 0.26

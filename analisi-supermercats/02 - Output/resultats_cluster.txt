@@ -1,0 +1,29 @@
+=== Nombre de segments ===
+k = 2  variància explicada = 31.5%  silueta = 0.278
+k = 3  variància explicada = 39.6%  silueta = 0.168
+k = 4  variància explicada = 43.5%  silueta = 0.126
+k = 5  variància explicada = 45.6%  silueta = 0.112
+k = 6  variància explicada = 47.3%  silueta = 0.090
+k = 7  variància explicada = 48.6%  silueta = 0.084
+k = 8  variància explicada = 49.7%  silueta = 0.075
+Escollits: 4
+
+=== Perfil dels segments ===
+Molt crítics n =  193 ( 9.5%)  mitjana atributs = 3.56  satisfacció = 3.89  NPS = -93
+Crítics      n =  542 (26.6%)  mitjana atributs = 5.27  satisfacció = 5.55  NPS = -76
+Satisfets     n =  738 (36.2%)  mitjana atributs = 6.56  satisfacció = 6.85  NPS = -24
+Entusiastes   n =  567 (27.8%)  mitjana atributs = 7.81  satisfacció = 8.13  NPS = +34
+Kruskal-Wallis satisfacció ~ segment: H = 937.8, p = 5.67e-203
+
+=== Validació ===
+Concordança K-means / jeràrquic: 79.3%
+
+=== Segments per cadena (%) ===
+   Establecimiento Molt crítics Crítics Satisfets Entusiastes
+1:         bonpreu       22.253    41.3      25.9        10.6
+2:   casa_ametller        4.376    24.8      42.3        28.5
+3:          consum        0.852    13.1      41.3        44.7
+Khi quadrat: χ² = 486.5, p = 6.77e-102
+
+=== Segments per edat ===
+χ² = 29.4, p = 0.0143, V de Cramér = 0.07
