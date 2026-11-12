@@ -303,7 +303,7 @@ Cada part llegeix els objectes creats per les anteriors. Per tant, s'han d'execu
 
 1. Clona el repositori:
    ```bash
-   git clone https://github.com/<usuari>/analisi-supermercats.git
+   git clone https://github.com/queroguerrerojoan-prog/Analisi-cadenes-supermercats.git
    ```
 2. Obre `analisi-supermercats.Rproj` a RStudio.
 3. Instal·la les dependències:
