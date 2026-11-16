@@ -2,10 +2,9 @@
 
 Anàlisi en **R** d'una enquesta de satisfacció a **2.040 clients** de tres cadenes de supermercats catalanes: **Bonpreu**, **Casa Ametller** i **Consum**.
 
-L'estudi respon tres preguntes de negoci:
+L'estudi respon les següents preguntes de negoci:
 
 1. **Com valoren els clients cada cadena?** → Top-2-Box i Net Promoter Score
-2. **Les diferències són reals o fruit de l'atzar?** → ANOVA, Tukey, Kruskal-Wallis i khi quadrat
 3. **On ha d'actuar cada cadena per millorar?** → Gap Analysis i anàlisi de components principals
 4. **Quins tipus de clients hi ha?** → Segmentació amb clúster jeràrquic i K-means
 5. **Què explica la satisfacció?** → Regressió múltiple i importància relativa
