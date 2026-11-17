@@ -1,6 +1,7 @@
 # 🛒 Anàlisi supermercats – Estudi de satisfacció de clients
 
 Anàlisi en **R** d'una enquesta de satisfacció a **2.040 clients** de tres cadenes de supermercats catalanes: **Bonpreu**, **Casa Ametller** i **Consum**.
+**Les dades han estat editades per crear uns resultats ficticis**
 
 L'estudi respon les següents preguntes de negoci:
 
